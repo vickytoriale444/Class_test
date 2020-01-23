@@ -10,3 +10,7 @@ Working with your classmates, and referencing my slides for today, do the follow
      + A _heading_ with the name of the command;
      + An example of how it can be used (formatted as a code block);
      + A _list_ of information about the command (i.e., things that it does, or how it can be used).
+     
+Note that you can click "Preview changes" to see what the final results are going to look like. 
+     
+To turn this in, copy/paste the unrendered Markdown text (with the _ and * and such) into the assignment on blackboard.     
