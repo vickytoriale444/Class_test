@@ -1,6 +1,8 @@
 # Class_test
  
-In the test repository we made last class, or fork this one, open up the README.md and edit it. (You edit with the little pencil icon to the right) 
+In the test repository we made last class (or fork this one) open up the README.md and edit it. (You edit with the little pencil icon to the right) 
+
+Working with your classmates, and referencing my slides for today, do the following three things:
 
 1. Put your favorite quote in a block quote. Add a link to a website that provides more information about that quote. 
 2. Make a three column table of the current courses you are taking, with separate columns for course number (in __bold__), course title (in _italics_), and instructor name.
