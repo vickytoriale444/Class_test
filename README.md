@@ -1,4 +1,4 @@
-# Class_test
+# Class Activity
  
 In the test repository we made last class (or fork this one) open up the README.md and edit it. (You edit with the little pencil icon to the right) 
 
